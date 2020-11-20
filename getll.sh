@@ -1,0 +1,1 @@
+curl -L -o Lavalink.jar https://github.com/Frederikam/Lavalink/releases/download/3.3.2.1/Lavalink.jar
